@@ -12,6 +12,7 @@ date: 08-08-2023
 prep_time: 10
 cook_time: 20
 recipe_yield: 2 personen
+recipe_category: main
 cooking_method: koken
 tags: [ "main", "stamppot" ]
 ingredients:

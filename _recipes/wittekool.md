@@ -10,6 +10,7 @@ date: 08-08-2023
 prep_time: 15
 cook_time: 15
 recipe_yield: 3 personen
+recipe_category: main
 cooking_method: koken
 tags: [ "main", "rijst" ]
 ingredients:

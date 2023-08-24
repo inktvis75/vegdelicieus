@@ -10,6 +10,7 @@ date: 08-08-2023
 prep_time: 15
 cook_time: 25
 recipe_yield: 4 personen
+recipe_category: main
 cooking_method: oven
 tags: [ "main", "ovenschotel", "pasta" ]
 ingredients:

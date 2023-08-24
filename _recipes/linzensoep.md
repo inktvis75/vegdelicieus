@@ -10,6 +10,7 @@ date: 08-08-2023
 prep_time: 5
 cook_time: 25
 recipe_yield: 2 personen
+recipe_category: main
 cooking_method: koken
 tags: [ "main", "soep" ]
 ingredients:

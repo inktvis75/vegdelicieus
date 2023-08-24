@@ -14,6 +14,7 @@
   "cookTime": "{{ page.cook_time }}",
   "totalTime": "{{ total_time }}",
   "recipeYield": "{{ page.recipe_yield }}",
+  "recipeCategory": "{{ page.recipe_category }}",
   "recipeIngredient": [
     {% for ingredient in page.ingredients %}
       "{{ ingredient }}"{% unless forloop.last %},{% endunless %}
