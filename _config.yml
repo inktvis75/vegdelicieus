@@ -31,7 +31,7 @@ github_username: inktvis75
 collections:
   recipes:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:collection/:name
     layout: "recipe"
 
 # Build settings
