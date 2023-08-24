@@ -18,7 +18,7 @@
                 {% for page in site.recipes %}
                 {% if page.title != 'De Recepten' %} 
                 <ul class="index">
-                    <li><a title="{{ page.title }}" href="{{ site.url }}/{{ page.url }}">{{ page.title }}</a> <br/>
+                    <li><a title="{{ page.title }}" href="{{ site.url }}{{ page.url }}">{{ page.title }}</a> <br/>
                         {{ page.description }}</li>
                     {% endif %}
                     {% endfor %}
