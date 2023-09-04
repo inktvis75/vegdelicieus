@@ -2,7 +2,7 @@
 <html lang="nl">
     <head>
         <meta charset="utf-8">
-        <title>{{ page.title }}</title>
+        <title>{{ Soep Recepten }}</title>
         <link rel="stylesheet" href="https://bulma.io/vendor/fontawesome-free-5.15.2-web/css/all.min.css">
         <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css">
@@ -16,12 +16,12 @@
             <div class="container"> 
 
                 {% for page in site.recipes %}
-                {% unless page.title contains 'Recepten' %} 
+                {% if page.title != 'De Recepten' and page.tags contains 'soep' %} 
                 <ul class="index">
                     <li><a title="{{ page.title }}" href="{{ site.url }}{{ page.url }}.html">{{ page.title }}</a> <br/>
                         {{ page.description }}</li>
-                {% endunless %}
-                {% endfor %}
+                    {% endif %}
+                    {% endfor %}
                 </ul>
             </div>
             <section>
