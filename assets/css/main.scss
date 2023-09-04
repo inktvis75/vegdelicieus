@@ -36,3 +36,14 @@ section+section {
 nav {
     padding-bottom: .9em;
 }
+
+.card-content > .content {
+   margin-top: -10em;
+   width: 50%;
+   float: right;
+   clear: both;
+}
+
+.card-content > a {
+   color: black;
+}
