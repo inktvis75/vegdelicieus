@@ -1,0 +1,281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"include",
+				"\\includegraphics"
+			],
+			[
+				"pa",
+				"\\paperheight"
+			],
+			[
+				"tabe",
+				"\\tableofcontents"
+			],
+			[
+				"ro",
+				"\\Rightarrow"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lsp",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus"
+	],
+	"file_history":
+	[
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_layouts/page.html",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/index.md",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_recipes/champignonsoep.md",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_recipes/index.html",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/404.html",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_layouts/about.html",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_layouts/list.html",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_layouts/default.html",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_includes/navigation.html",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_layouts/recipe.html",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/assets/css/main.scss",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_config.yml",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/about.md",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_recipes/macenpompoen.md",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_includes/json-ld-recipe.html",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_site/about/index.html",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/Gemfile",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_includes/list.html",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/css/_sass/bulma.sass",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_site/assets/main.css",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/css/_sass/main.scss",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/css/bulma.scss",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/css/_sass/typography.scss",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/css/_sass/main",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_site/assets/css/main.scss",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_sass/main.scss",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_site/recipes/bananabread/index.html",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/_recipe/champignonsoep.md",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Recipes/vegdelicieus/champignonsoep.md",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/ITGilde/itg_400/labs/source/index.rst",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/ITGilde/itg_400/labs/source/kubernetes.rst",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/ITGilde/itg_400/labs/source/secrets.rst",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/ITGilde/itg_400/labs/source/swarm.rst",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/ITGilde/itg_400/labs/source/compose1.rst",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/ITGilde/itg_400/labs/source/compose2.rst",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/ITGilde/itg_400/labs/source/volumes.rst",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/ITGilde/itg_400/labs/source/networking.rst",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/ITGilde/itg_400/labs/source/variables.rst",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/ITGilde/itg_400/labs/source/webassembly.rst",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/ITGilde/itg_400/labs/source/images.rst",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/ITGilde/itg_400/labs/source/multiarch.rst",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/ITGilde/itg_400/labs/source/running.rst",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/ITGilde/itg_400/labs/source/requirements.rst",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/ITGilde/itg_400/labs/source/getstarted.rst",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/ITGilde/itg_103/labs/source/deb-softwaremgmt.rst",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Comptia-FT+-02/source/introduction-fv.tex",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Comptia-FT+-Landscape/source/virtual.tex",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Comptia-FT+-Landscape/source/datacenter.tex",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Comptia-FT+-Landscape/sty/linvirt.tex",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Security_WS/sty/quotes.tex",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Security_WS/sty/linvirt.tex",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Security_WS/sty/generic.tex",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Projects/Security_WS/source/introduction-fv.tex",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/itg_400/slides/latexmkrc",
+		"/Users/frederik/Library/CloudStorage/Dropbox/Training/itg_400/containertechnology.tex"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "vegdelicieus.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 339.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
