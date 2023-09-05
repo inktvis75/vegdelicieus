@@ -9,7 +9,8 @@ author: Frederik Vos
 date: 08-08-2023
 prep_time: PT5M
 cook_time: PT25M
-recipe_yield: 2 personen
+total_time: PT30M
+recipe_yield: 2
 recipe_category: main
 cooking_method: koken
 tags: [ "main", "soep" ]

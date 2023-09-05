@@ -8,7 +8,8 @@ author: Frederik Vos
 date: 08-08-2023
 prep_time: PT10M 
 cook_time: PT35M
-recipe_yield: 4 personen
+total_time: PT45M
+recipe_yield: 4
 recipe_category: main
 cooking_method: oven
 tags: [ "main", "soep" ]

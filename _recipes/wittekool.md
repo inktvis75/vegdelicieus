@@ -9,7 +9,8 @@ author: Frederik Vos
 date: 08-08-2023
 prep_time: PT15M
 cook_time: PT15M
-recipe_yield: 3 personen
+total_time: PT30M
+recipe_yield: 3
 recipe_category: main
 cooking_method: koken
 tags: [ "main", "rijst" ]

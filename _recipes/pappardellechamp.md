@@ -9,7 +9,7 @@ author: Frederik Vos
 date: 09-03-2023
 prep_time: PT15M
 cook_time: PT15M
-recipe_yield: 2 personen
+recipe_yield: 2
 recipe_category: main
 cooking_method: koken
 tags: [ "main", "pasta" ]

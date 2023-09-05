@@ -3,8 +3,6 @@ layout: default
 ---
 
 {% assign recipe = page %}
-{% assign total_time = recipe.prep_time | plus: recipe.cook_time %}
-{% assign minutes = total_time | modulo: 60 %}
 {% include json-ld-recipe.html %}
 
 <div class="content">
@@ -27,7 +25,7 @@ layout: default
                 <div class="column is-half-mobile" style="border-right: 1px solid #dbdbdb">
                     <i class="fas fa-concierge-bell fa-lg"></i>
                     <p class="has-text-weight-bold is-size-6"> Hoeveelheid </p>
-                    {{ recipe.recipe_yield }}  
+                    {{ recipe.recipe_yield }} personen 
                 </div>
 
                 <div class="column is-half-mobile" style="border-right: 1px solid #dbdbdb">
