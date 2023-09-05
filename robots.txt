@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.vegdelicieus.nl/sitemap.xml
