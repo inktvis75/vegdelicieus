@@ -1,5 +1,6 @@
 ---
 layout: page
+title: VegDelicieus - Heerlijke vegan recepten voor thuis
 ---
 
 <div class="columns">
