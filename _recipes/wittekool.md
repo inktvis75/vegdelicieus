@@ -11,7 +11,7 @@ prep_time: PT15M
 cook_time: PT15M
 total_time: PT30M
 recipe_yield: 3
-recipe_category: main
+recipe_category: diner
 cooking_method: koken
 tags: [ "main", "rijst" ]
 ingredients:
