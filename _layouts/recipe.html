@@ -33,13 +33,13 @@ layout: default
                 <div class="column is-half-mobile" style="border-right: 1px solid #dbdbdb">
                     <i class="fas fa-hourglass-half fa-lg"></i>
                     <p class="has-text-weight-bold is-size-6"> Voorbereidingstijd </p>
-                    {{ recipe.prep_time | recipe_pretty_duration }}
+                    {{ recipe.prep_time | iso8601_to_minutes }} minuten
                 </div>
 
                 <div class="column is-half-mobile" style="border-right: 1px solid #dbdbdb">
                     <i class="fas fa-clock fa-lg"></i>
                     <p class="has-text-weight-bold is-size-6">Kooktijd</p>
-                    {% if total_time > 60 %}{{ total_time | divided_by: 60}} hours{% endif %}{% if minutes > 0 %} {{ minutes }} minutes{% endif %}
+                    {{ recipe.cook_time | iso8601_to_minutes }} minuten 
                      
                 </div>  
             </div>

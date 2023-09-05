@@ -7,8 +7,8 @@ description: >-
 image: bananabread.jpg
 author: Frederik Vos
 date: 08-08-2023
-prep_time: 15
-cook_time: 25
+prep_time: PT15M
+cook_time: PT25M
 recipe_yield: 4 personen
 recipe_category: main
 cooking_method: oven

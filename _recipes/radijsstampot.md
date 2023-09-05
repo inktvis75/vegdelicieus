@@ -9,8 +9,8 @@ description: >-
 image: bananabread.jpg
 author: Frederik Vos
 date: 08-08-2023
-prep_time: 10
-cook_time: 20
+prep_time: PT10M
+cook_time: PT20M
 recipe_yield: 2 personen
 recipe_category: main
 cooking_method: koken
