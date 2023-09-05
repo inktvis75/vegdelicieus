@@ -30,7 +30,7 @@ instructions:
   - Snij de puntpaprikas in de lengte door en verwijder de zaden en zaadlijsten.
   - Snij de tomaten in 8 parten, meng deze met de olijfolie en balsamico azijn en een theelepel zout.
   - Snij de uien in 4 parten.
-  - Doe alles in grote <a href="https://amzn.to/3Zb4mrh"> braadslede en bak het voor 20 minuten.
+  - Doe alles in grote <a href="https://amzn.to/3Zb4mrh">braadslede</a> en bak het voor 20 minuten.
   - Meng alles goed door en voeg de knoflooktenen toe en bak nog nog voor 5 minuten.
   - Maak ondertussen de groentebouillon.
   - Hevel de inhoud van de braadslede over in een grote soeppan, voeg sojamelk, paprikapoeder en cayenne peper toe.
