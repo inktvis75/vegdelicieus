@@ -11,7 +11,7 @@ prep_time: PT15M
 cook_time: PT25M
 total_time: PT40M
 recipe_yield: 4
-recipe_category: main
+recipe_category: diner 
 cooking_method: oven
 tags: [ "main", "ovenschotel", "pasta" ]
 ingredients:
