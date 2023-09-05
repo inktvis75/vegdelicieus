@@ -3,6 +3,15 @@
 
 @import "bulma.sass";
 
+html {
+  font-size: 12px;
+  @include tablet {
+    font-size: 16px;
+  }
+  @include desktop {
+    font-size: 20px;
+  }
+}
 
 body {
     background-size: cover;
