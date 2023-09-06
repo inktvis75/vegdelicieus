@@ -28,13 +28,9 @@
     }
 }
 
-body {
+html,body {
+    height: 100%;
     background-size: cover;
-    background-color: white;
-}
-
-section {
-    background-color: rgba(39, 245, 58, 0.03);
 }
 
 h1 > h2.subtitle is-2 {

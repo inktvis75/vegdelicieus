@@ -3,6 +3,7 @@ layout: page
 title: VegDelicieus - Heerlijke vegan recepten voor thuis
 ---
 
+<div style="margin-top: 14px;"></div>
 <div class="columns">
   <div class="column">
     <div class="card">
