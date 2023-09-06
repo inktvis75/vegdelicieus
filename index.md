@@ -15,7 +15,7 @@ title: VegDelicieus - Heerlijke vegan recepten voor thuis
           <a href="/recipes/soep.html">
             <div class="card-image">
                 <figure>
-                <img src="/assets/images/soep.png" alt="soep icon" style="width:190px; height:190px">
+                <img src="/assets/images/soep.png" alt="soep icon" style="width:100px; height:100px">
                 </figure>
             </div>
           </a>
@@ -37,7 +37,7 @@ title: VegDelicieus - Heerlijke vegan recepten voor thuis
           <a href="/recipes/pasta.html">
             <div class="card-image">
                 <figure>
-                <img src="/assets/images/pasta.png" alt="pasta icon" style="width:190px; height:190px">
+                <img src="/assets/images/pasta.png" alt="pasta icon" style="width:100px; height:100px">
                 </figure>
             </div>
           </a>
@@ -61,7 +61,7 @@ title: VegDelicieus - Heerlijke vegan recepten voor thuis
           <a href="/recipes/rijst.html">
             <div class="card-image">
                 <figure>
-                <img src="/assets/images/rijst.png" alt="rijst icon" style="width:190px; height:190px">
+                <img src="/assets/images/rijst.png" alt="rijst icon" style="width:100px; height:100px">
                 </figure>
             </div>
           </a>
@@ -83,7 +83,7 @@ title: VegDelicieus - Heerlijke vegan recepten voor thuis
           <a href="/recipes/stamppot.html">
             <div class="card-image">
                 <figure>
-                <img src="/assets/images/stamppot.png" alt="stamppot icon" style="width:190px; height:190px">
+                <img src="/assets/images/stamppot.png" alt="stamppot icon" style="width:100px; height:100px">
                 </figure>
             </div>
           </a>
