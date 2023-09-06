@@ -13,7 +13,7 @@ prep_time: PT10M
 cook_time: PT20M
 total_time: PT45M
 recipe_yield: 2
-recipe_category: main
+recipe_category: diner 
 cooking_method: koken
 tags: [ "main", "stamppot" ]
 ingredients:
