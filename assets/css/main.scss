@@ -3,9 +3,18 @@
 
 @import "bulma.sass";
 
+:root{
+  font:-apple-system-body;
+}
+@supports (font:-apple-system-body) and (not(-webkit-touch-callout:default)){
+:root{font-size:14px}
+}
+
 html {
   font-size: 12px;
-  @include 
+  @include mobile {
+    font-size: 14px;
+  }
   @include tablet {
     font-size: 16px;
   }
@@ -14,12 +23,7 @@ html {
   }
 }
 
-:root{
-  font:-apple-system-body;
-}
-@supports (font:-apple-system-body) and (not(-webkit-touch-callout:default)){
-:root{font-size:14px}
-}
+
 
 body {
     background-size: cover;
