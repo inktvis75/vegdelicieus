@@ -5,12 +5,20 @@
 
 html {
   font-size: 12px;
+  @include 
   @include tablet {
     font-size: 16px;
   }
   @include desktop {
     font-size: 20px;
   }
+}
+
+:root{
+  font:-apple-system-body;
+}
+@supports (font:-apple-system-body) and (not(-webkit-touch-callout:default)){
+:root{font-size:14px}
 }
 
 body {
