@@ -11,6 +11,23 @@
     :root{font-size:16px}
 }
 
+@media print {
+   .noprint {
+        visibility: hidden;
+        z-index: 0;
+        display: none; 
+    }
+
+   input { visibility: hidden; } 
+
+   h1.title.is-1 { 
+        font-size: 30px;
+        text-align: left; 
+        margin-top: 0.2em;
+        margin-bottom: -0.75em;
+    }
+}
+
 body {
     background-size: cover;
     background-color: white;
