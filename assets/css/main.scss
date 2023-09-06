@@ -2,6 +2,7 @@
 ---
 
 @import "bulma.sass";
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800&display=swap");
 
 :root {
     font:-apple-system-body;
@@ -31,6 +32,10 @@
 html,body {
     height: 100%;
     background-size: cover;
+    line-height: 1.7;
+    font-family: "Nunito Sans", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    color: rgb(85,85,85);
 }
 
 h1 > h2.subtitle is-2 {
