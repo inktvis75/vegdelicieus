@@ -1,45 +1,28 @@
-<!doctype html>
-<html lang="nl">
-    <head>
-        <meta charset="utf-8">
-        <meta name="msvalidate.01" content="4977F45BDC399619C13FAEDC6CE5E184" />
-        <meta name="description" content="Website vol met de lekkerste vegan recepten" />
-        <meta property="og:locale" content="nl_NL" />
-        <meta property="og:title" content="VegDelicieus - Vegan Recepten" />
-        <meta property="og:description" content="Website vol met de lekkerste vegan recepten" />
-        <meta property="og:url" content="https://veganchallenge.nl/recipes" /> 
-        <meta property="og:site_name" content="VegDelicieus" /> 
-        <meta property="og:type" content="website" />
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-         
-        <title>Soep Recepten</title>
-        <link rel="stylesheet" href="https://bulma.io/vendor/fontawesome-free-5.15.2-web/css/all.min.css">
-        <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
-        <link rel="stylesheet" href="https://bulma.io/css/bulma-docs.min.css?v=202308041418">
-        <script type="text/javascript" src="/assets/js/burgermenu.js"></script>
+---
+title: Soep Recepten
+---
+
+{% include header.html %} 
 
 
-    </head>
+<body>
+{% include navigation.html %}
 
-    <body>
-        {% include navigation.html %}
+    <section class="section">
+        <div class="container"> 
 
-        <section class="section">
-            <div class="container"> 
+            <h1 class="title">{{ page.title }}</h1>
 
-                <h1 class="title">Soep Recepten</h1>
+            {% for page in site.recipes %}
+            {% if page.title != 'De Recepten' and page.tags contains 'soep' %} 
+            <ul class="index">
+                <li><a href="{{ site.url }}{{ page.url }}.html">{{ page.title }}</a> <br/>
+                    {{ page.description }}</li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+        <section>
+</body>
 
-                {% for page in site.recipes %}
-                {% if page.title != 'De Recepten' and page.tags contains 'soep' %} 
-                <ul class="index">
-                    <li><a href="{{ site.url }}{{ page.url }}.html">{{ page.title }}</a> <br/>
-                        {{ page.description }}</li>
-                    {% endif %}
-                    {% endfor %}
-                </ul>
-            </div>
-            <section>
-    </body>
 </html>
-

@@ -13,7 +13,7 @@ total_time: PT30M
 recipe_yield: 3
 recipe_category: diner
 cooking_method: koken
-tags: [ "main", "rijst" ]
+tags: [ "diner", "rijst" ]
 ingredients:
   - 1 witte kool (circa 650 gr)
   - 1 tsp cayenne peper

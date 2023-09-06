@@ -1,36 +1,15 @@
-<!doctype html>
-<html lang="nl">
-    <head>
-        <meta charset="utf-8">
-        <meta name="msvalidate.01" content="4977F45BDC399619C13FAEDC6CE5E184" />
-        <meta name="description" content="Website vol met de lekkerste vegan recepten" />
-        <meta property="og:locale" content="nl_NL" />
-        <meta property="og:title" content="VegDelicieus - Vegan Recepten" />
-        <meta property="og:description" content="Website vol met de lekkerste vegan recepten" />
-        <meta property="og:url" content="https://veganchallenge.nl/recipes" /> 
-        <meta property="og:site_name" content="VegDelicieus" /> 
-        <meta property="og:type" content="website" />
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-         
-        <title>{{ page.title }}</title>
-        <link rel="stylesheet" href="https://bulma.io/vendor/fontawesome-free-5.15.2-web/css/all.min.css">
-        <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
-        <link rel="stylesheet" href="https://bulma.io/css/bulma-docs.min.css?v=202308041418">
-        <script type="text/javascript" src="/assets/js/burgermenu.js"></script>
+{% include header.html %} 
 
-    </head>
 
-    <body>
-        {% include navigation.html %}
+<body>
+{% include navigation.html %}
 
 
 <div class="container">
-
 {{ content }}
 </div>
-
 </body>
+
 </html>
 
 
