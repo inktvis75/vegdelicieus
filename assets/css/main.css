@@ -32,6 +32,15 @@ html,body {
     color: rgb(85,85,85);
 }
 
+body {
+    background-image: url('/assets/images/vegd-bg.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left bottom;
+    background-size: 200px 355px;
+
+}
+
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: "Nunito Sans", sans-serif;
   font-weight: 800;
