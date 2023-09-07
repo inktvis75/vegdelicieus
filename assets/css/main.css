@@ -203,8 +203,10 @@ li:before {
   margin-right: 0.5rem;
 }
 
-section {
-    margin-left: 8rem;
+@media (min-width:1025px) {
+    section {
+        margin-left: 8rem;
+    }
 }
 
 section + section {
