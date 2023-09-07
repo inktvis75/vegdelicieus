@@ -20,6 +20,7 @@ permalink /search.html
   SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
+    searchResultTemplate: '<li><a href="{url}.html" tabindex="1">{title}</a></li>',
     json: '/search.json'
   })
   </script>
