@@ -46,28 +46,6 @@ p {
   margin-bottom: 1rem;
 }
 
-a,
-a:hover,
-a:focus {
-  text-decoration: none;
-}
-
-a,
-button,
-select {
-  cursor: pointer;
-  transition: 0.2s ease;
-}
-a:focus,
-button:focus,
-select:focus {
-  outline: 0;
-}
-
-a:hover {
-  color: rgb(108,173,161);
-}
-
 .shadow, .card {
   box-shadow: 0px 25px 65px rgba(0, 0, 0, 0.05) !important;
 }
@@ -85,4 +63,60 @@ a:hover {
 
 .card-content > a {
    color: black;
+}
+
+.columns.is-gapless > .column {
+    margin: 0;
+    padding: 0!important;
+}
+
+.header-top {
+    position: relative !important;
+}
+
+.bg-mblue {
+    background: rgb(118,204,214);
+}
+
+.navbar {
+    background: rgb(118,204,214);
+}
+
+.navigation.navbar {
+    background-color: transparent !important;
+}
+
+.navigation .navbar-brand {
+    align-items: center;
+    min-height: auto;
+}
+
+.navbar-item, .navbar-link {
+    text-weight: 50;
+    text-transform: uppercase;
+    color: rgb(52,75,71);
+}
+
+.navbar-link {
+    color: rgb(52,75,71);
+    line-height: 1.7px;
+}
+
+.navbar-link:focus, .navbar-link:hover {
+  background-color: rgb(232,243,241);
+  color: rgb(52,75,71);
+}
+
+.navbar-link:focus::after, .navbar-link:hover::after {
+  border-color: rgb(232,243,241) !important;
+}
+    
+
+.navbar-link, a.navbar-item {
+    cursor: pointer;
+}
+
+.navbar-menu .navbar-item {
+    transition: all 500ms ease;
+    padding: 10px 10px;
 }
