@@ -16,7 +16,7 @@ cooking_method: koken
 tags: [ "main", "soep" ]
 ingredients:
   - 1 knolselderij
-  - 50 gram spinazi
+  - 50 gram spinazie
   - 3 tsp groentebouillon poeder
   - 3 kaffir lime bladeren
   - 2 teentjes knoflook
