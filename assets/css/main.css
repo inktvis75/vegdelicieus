@@ -136,3 +136,22 @@ p {
     padding: 10px 10px;
 }
 
+.button.is-link {
+    background-color: rgb(118,204,214);
+    color: rgb(47,122,141);
+}
+
+.button.is-link:hover {
+    background-color: rgb(232,243,241);
+    color: rgb(47,122,141);
+}
+
+.button.is-link.is-light {
+    background-color: rgb(232,243,241);
+    color: rgb(47,122,141);
+}
+
+.button.is-link.is-light:hover {
+    background-color: rgb(118,204,214);
+    color: rgb(232,243,241);
+}
