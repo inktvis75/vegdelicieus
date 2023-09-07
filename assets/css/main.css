@@ -60,6 +60,10 @@ p {
   margin-bottom: 1rem;
 }
 
+section a, section a:link, section a:visited {
+    color: rgb(151,177,171)
+}
+
 .shadow, .card {
   box-shadow: 0px 25px 65px rgba(0, 0, 0, 0.05) !important;
 }
@@ -73,6 +77,11 @@ p {
    width: 50%;
    float: right;
    clear: both;
+}
+
+.footer {
+    padding: 10px;
+    background: rgb(232,243,241);
 }
 
 .card-content > a {
@@ -122,11 +131,10 @@ p {
   color: rgb(52,75,71);
 }
 
-.navbar-link:focus::after, .navbar-link:hover::after {
+.navbar-link:focus:after, .navbar-link:hover:after {
   border-color: rgb(232,243,241) !important;
 }
     
-
 .navbar-link, a.navbar-item {
     cursor: pointer;
 }
@@ -134,6 +142,11 @@ p {
 .navbar-menu .navbar-item {
     transition: all 500ms ease;
     padding: 10px 10px;
+
+}
+
+.navbar-menu .navbar-item:hover {
+    background-color: rgb(232,243,241);
 }
 
 .button.is-link {
@@ -155,7 +168,6 @@ p {
     background-color: rgb(118,204,214);
     color: rgb(232,243,241);
 }
-
 
 ul li {
   list-style: none;
