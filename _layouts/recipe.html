@@ -51,7 +51,7 @@ title: recipe.title
             <ul>
                 {% for ingredient in recipe.ingredients %}
                 <li> <label class="checkbox">
-                        <input type="checkbox"> {{ ingredient }} </label>
+                        <input type="checkbox" style="display:none"> {{ ingredient }} </label>
                 </li>
                 {% endfor %}
             </ul>

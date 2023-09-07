@@ -155,3 +155,58 @@ p {
     background-color: rgb(118,204,214);
     color: rgb(232,243,241);
 }
+
+
+ul li {
+  list-style: none;
+  padding-left: 50px;
+  padding-bottom: 10px;
+  position: relative;
+
+}
+
+ul li:before {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  display: inline-block;
+  height: 15px;
+  width: 15px;
+  background-size: contain;
+  background-image: url("/assets/images/vegd-li.png");
+}
+
+.content ol:not([type]) {
+  list-style: none;
+  padding-left: 50px;
+  padding-bottom: 10px;
+  position: relative;
+  counter-reset: vd-counter;
+  line-height: 1.5rem;
+}
+
+li {
+    counter-increment: vd-counter;
+    margin: 0.25rem;
+}
+
+li:before {
+  content: counter(vd-counter);
+  background: rgb(47,122,141);
+  color: rgb(255,208,158);
+  width: 1.3rem;
+  height: 1.3rem;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+  margin-right: 0.5rem;
+}
+
+section {
+    margin-left: 8rem;
+}
+
+section + section {
+    margin-top: -50px;
+}
