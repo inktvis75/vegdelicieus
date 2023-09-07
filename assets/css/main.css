@@ -169,6 +169,18 @@ section a, section a:link, section a:visited {
     color: rgb(232,243,241);
 }
 
+input[type=text] {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid rgb(232,243,241);
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+
+
 ul li {
   list-style: none;
   padding-left: 50px;

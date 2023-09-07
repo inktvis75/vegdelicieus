@@ -1,0 +1,27 @@
+---
+layout: search
+title: Zoekpagina
+permalink /search.html
+---
+
+<div id="search-container">
+{% include htmlhead.html %}
+{% include navigation.html %}
+
+<section> 
+
+  <input type="text" id="search-input" placeholder="zoeken...">
+  <ul id="results-container"></ul>
+  </div>
+
+  <script src="/assets/js/simple-search.js" type="text/javascript"></script>
+
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json'
+  })
+  </script>
+
+</section>
