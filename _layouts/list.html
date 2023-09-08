@@ -12,9 +12,9 @@ title: Al onze recepten
 
                 <h1 class="title">Al onze recepten</h1>
 
+                <ul class="index">
                 {% for page in site.recipes %}
                 {% unless page.title contains 'Recepten' %} 
-                <ul class="index">
                     <li><a href="{{ site.url }}{{ page.url }}.html">{{ page.title }}</a> <br/>
                         {{ page.description }}</li>
                 {% endunless %}
