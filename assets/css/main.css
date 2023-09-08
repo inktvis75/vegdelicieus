@@ -61,7 +61,13 @@ p {
 }
 
 section a, section a:link, section a:visited {
-    color: rgb(151,177,171)
+    color: rgb(105,106,143);
+    text-decoration: green underline;
+}
+
+li a, li a:link, li a:visited {
+    color: rgb(63,92,105);
+    font-weight: 700;
 }
 
 .shadow, .card {
@@ -232,6 +238,11 @@ li:before {
     section {
         margin-left: 8rem;
     }
+}
+
+.container {
+  background: white ;
+  opacity: 0.85    
 }
 
 section + section {
