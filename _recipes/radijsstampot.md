@@ -36,6 +36,7 @@ instructions:
   - Stamp de aardappelen, of nog beter, gebruik een aardappelpers.
   - Meng de zwarte azijn met de haverfraiche en roer die door de aardappelen.
   - Meng de radijsjes, inclusief de boter, door de puree.
+  - Meng de blad van de radijs door de puree.
   - Breng op smaak met zout en peper.
   - Stamp of hak de pinda's fijn, gebruik deze als garnering.
 
@@ -47,4 +48,5 @@ de radijsjes vers en pittig. Als de radijsjes niet zo pittig zijn, kun je overwe
 Hou je van een extra cremige puree, verdubbel dan de hoeveelheid haverfraiche en azijn. 
 Over de azijn gesproken: [Zwarte rijstazijn](https://www.tjinstoko.eu/en/heng-shun-chinkiang-vinegar-180ml.html) is steeds beter te verkrijgen. Er zijn 2 soorten, de gezoete (tiáncù) en de ongezoete (xiāngcù) variant. Let goed op dat je niet de zoete variant gebruikt in dit recept! Als je er echt niet aan kunt komen, gebruik dan balsamico azijn.
 
-Eventueel kun je ook nog wat verse bieslook door de stamppot heen mengen of gebruiken als garnering.
+Als extra zou je vegetarische spekjes kunnen bakken en die op het laatst toevoegen aan de pure. 
+Verder kun je eventueel ook nog wat verse bieslook door de stamppot heen mengen of gebruiken als garnering. 
