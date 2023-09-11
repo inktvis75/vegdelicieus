@@ -6,7 +6,7 @@ description: >-
    hoeft niets je er van te weerhouden om op andere tijdstippen te eten.
 image: bananabread.jpg
 author: Frederik Vos
-date: 09-03-2023
+date: 03-09-2023
 prep_time: PT15M
 cook_time: PT15M
 total_time: PT30M
