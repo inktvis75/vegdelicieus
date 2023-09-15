@@ -20,13 +20,17 @@
 
 title: VegDelicieus
 email: info@linvirt.nl
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >- 
+  Website vol met de lekkerste vegan recepten
+tagline: VegDelicieus | Een website met vegan recepten voor elke dag 
 website: https://www.vegdelicieus.nl
+author: Frederik Vos
 url: https://www.vegdelicieus.nl
 github_username: inktvis75
+webmaster_verifications:
+  google: google77c3a86c5835a59f.html
+  bing: 977F45BDC399619C13FAEDC6CE5E184
+locale: nl_NL
 
 # Recipes
 collections:
@@ -39,6 +43,7 @@ collections:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Markdown settings
 kramdown:
