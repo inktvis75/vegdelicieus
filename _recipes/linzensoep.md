@@ -1,5 +1,5 @@
 ---
-title: Linzensoep
+title: Eenvoudige linzensoep
 layout: recipe
 description: >-
   Een vrij eenvoudig, relatief snel klaar te maken maaltijdsoep. 
