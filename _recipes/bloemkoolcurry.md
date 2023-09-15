@@ -40,7 +40,7 @@ instructions:
   - Snij de ui fijn.
   - Verwarm een hoge koekenpan op middelmatig vuur en doe daar de garam masala, curry madras, asafoetida en kurkuma in. Verwarm voor totdat het lekker begint te ruiken, dit gebeurd na plusminus 2 minuten.
   - Voeg kokosolie en uien toe en fruit 4 minuten.
-  - Haal de bloemkool ondertussen uit de kokosmelk en doe deze op een bakplaat. Bewaar de overgebleven kokosmelk. Bestrooi met de arrowroot poeder. Rooster de bloemkool met onder en bovenverwarming totdat deze goudbruin ziet.
+  - Haal de bloemkool ondertussen uit de kokosmelk en doe deze op een bakplaat. Bewaar de overgebleven kokosmelk. Bestrooi de bloemkool met de arrowroot poeder. Rooster de bloemkool met onder en bovenverwarming totdat deze goudbruin ziet.
   - Snijd de knoflook zeer fijn en voeg deze toe bij de uien, rasp de verse gember en voeg deze eveneens toe. Bak nog 1 minuut.
   - Voeg de tomatenblokjes, de overgebleven kokosmelk en een nieuw blik toe en kook voor 15 minuten.
   - Voeg de bloemkool en het citroensap er bij en verwarm nog voor 5 minuten.
