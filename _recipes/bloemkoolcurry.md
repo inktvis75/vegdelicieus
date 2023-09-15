@@ -37,6 +37,7 @@ instructions:
   - Deksel op de pan. Kook de rijst op middelmatige temperatuur. Zodra het water kookt, nog 10 min koken. Zet daarna apart.
   - Doe 1 blik kokosmelk in een grote mengkom, meng het met de gember poeder en 1 tsp zout.
   - Snij de bloemkool in hapklare roosjes en laat deze 15 minuten marineren in de kokosmelk.
+  - Snij de ui fijn.
   - Verwarm een hoge koekenpan op middelmatig vuur en doe daar de garam masala, curry madras, asafoetida en kurkuma in. Verwarm voor totdat het lekker begint te ruiken, dit gebeurd na plusminus 2 minuten.
   - Voeg kokosolie en uien toe en fruit 4 minuten.
   - Haal de bloemkool ondertussen uit de kokosmelk en doe deze op een bakplaat. Bewaar de overgebleven kokosmelk. Bestrooi met de arrowroot poeder. Rooster de bloemkool met onder en bovenverwarming totdat deze goudbruin ziet.
