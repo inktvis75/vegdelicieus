@@ -8,7 +8,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "nokogiri"
   gem "sass-embedded"
-  gem 'mastodon-api', :git => 'https://github.com/mastodon/mastodon-api.git'
-  gem "mastodon-social"
+#  gem 'mastodon-api', :git => 'https://github.com/mastodon/mastodon-api.git'
+#  gem "mastodon-social"
   gem "jekyll-seo-tag"
 end
