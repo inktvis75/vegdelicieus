@@ -39,5 +39,5 @@ sass:
   style: compact
 
 # Mastodon
-mastodon-syndication:
-  server: https://social.linux.pizza
+# mastodon-syndication:
+# server: https://social.linux.pizza

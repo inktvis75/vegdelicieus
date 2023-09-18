@@ -1,19 +1,8 @@
-GIT
-  remote: https://github.com/mastodon/mastodon-api.git
-  revision: 60b0ed09c3b979cbeb833db0a320b30e1b022a1e
-  specs:
-    mastodon-api (2.0.0)
-      addressable (~> 2.6)
-      buftok (~> 0)
-      http (~> 5.1.0)
-      oj (~> 3.7)
-
 GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.8.5)
       public_suffix (>= 2.0.2, < 6.0)
-    buftok (0.3.0)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
     debug (1.8.0)
@@ -82,8 +71,6 @@ GEM
     llhttp-ffi (0.4.0)
       ffi-compiler (~> 1.0)
       rake (~> 13.0)
-    mastodon-social (0.1.0)
-      mastodon-api (~> 2.0)
     mercenary (0.4.0)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
@@ -93,7 +80,6 @@ GEM
       racc (~> 1.4)
     nokogiri (1.15.4-x86_64-linux)
       racc (~> 1.4)
-    oj (3.16.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     psych (5.1.0)
@@ -126,6 +112,7 @@ GEM
 PLATFORMS
   arm64-darwin-22
   x86_64-linux
+  ruby
 
 DEPENDENCIES
   debug
@@ -133,8 +120,6 @@ DEPENDENCIES
   jekyll (~> 4.3.2)
   jekyll-feed (~> 0.12)
   jekyll-seo-tag
-  mastodon-api!
-  mastodon-social
   minima (~> 2.5)
   nokogiri
   sass-embedded
