@@ -37,3 +37,7 @@ kramdown:
 sass:
   sass_dir: css/_sass
   style: compact
+
+# Mastodon
+mastodon-syndication:
+  server: https://social.linux.pizza
