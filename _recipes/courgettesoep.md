@@ -32,7 +32,7 @@ instructions:
   - Giet de kikkererwten af en spoel ze even onder de kraan en doe ze in een kom
   - Meng de kikkererwten met wat zout, peper, het mosterdzaad en 1 tbs olijfolie. Bak ze gedurende 10 minuten in een airfryer, bij voorkeur 240 graden (Max Crisp). Geen airfryer? Oven werkt ook, 15 tot 20 minuten op 200 graden.
   - Snijd de courgette in vierkante blokjes van ongeveer 1cm, hak de ui grof
-  - Doe wat olijfolie in een soeppan, en bak de courgette en de ui voor 5 miminuten. Voeg  daarna de laos, selderij, knoflook en kurkuma poeder er bij met een snufje zout en bak nog even voor 1 min. 
+  - Doe wat olijfolie in een soeppan, en bak de courgette en de ui voor 5 minuten. Voeg  daarna de laos, selderij, knoflook en kurkuma poeder er bij met een snufje zout en bak nog even voor 1 min. 
   - Voeg kokusmelk en koud water toe en breng terug aan de kook. Voeg een groentenbouillonblokje toe. 
   - Kook de soep voor 15 minuten en pureer het geheel tot een mooie gladde soep.
   - Breng, indien nog nodig, het verder op smaak met peper en zout.
